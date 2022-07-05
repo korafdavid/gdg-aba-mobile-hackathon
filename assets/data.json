@@ -1,0 +1,111 @@
+{
+    "coding": {
+        "details": "Coding, sometimes called computer programming, is how we communicate with computers. Code tells a computer what actions to take, and writing code is like creating a set of instructions. By learning to write code, you can tell computers what to do or how to behave in a much faster way.",
+        "title": "CODING",
+        "areas": [
+            {
+                "area": "Web development",
+                "youtube" : "https://youtu.be/5YDVJaItmaY",
+                "text": "web"
+            },
+            {
+                "area": "App development",
+                "youtube": "https://youtu.be/qqzy1EEid0E",
+                "text": "app"
+            },
+            {
+                "area": "backend development",
+                "youtube": "https://youtu.be/cbSrsYiRamo",
+                "text": "backend"
+            },
+            {
+                "area": "game development",
+                "youtube": "https://youtu.be/7C92ZCnlmQo",
+                 "text": "game"
+            },
+            {
+                "area": "cybersecurity",
+                "youtube": "https://youtu.be/inWWhr5tnEA",
+                "text": "cybersecurity"
+            },
+            {
+                "area": "Database Adminstration",
+                "youtube": "https://youtu.be/p9WEWGsH244",
+                "text":"database"
+            }
+        ]
+    },
+    "Designs": {
+        "details": "Designing first in the technology landscape allows businesses to experience the application as a prototype before building out the entire product. In our process, for example, we adhere to always prototyping before building.",
+        "title": "DESIGN",
+        "areas": [
+            {
+                "area": "Graphics Designer",
+                "youtube": "https://youtu.be/dFSia1LZI4Y",
+                "text":"graphics"
+            },
+            { 
+                "area": "Product Design",
+                "youtube": "https://youtu.be/xdP6cVM1k2Y",
+                "text": "design"
+            },
+            {
+                "area": "UI/UX",
+                "youtube":"https://youtu.be/rYH7AErVd7w",
+                "text": "ui"
+            }
+        ]
+    },
+    "marketing": {
+        "details":"Marketing automation helps B2B enterprise companies nurture, qualify, and pass leads over to sales when they're finally ready. This is essential in the technology space, as both pre-sales and sales cycles can last weeks, months, and even years.",
+        "title": "MARKETING",
+        "areas": [
+            {
+                "area": "Search Engine Optimization",
+                "youtube": "https://youtu.be/mvLI96mxx0o",
+                "text": "seo"
+            },
+            {
+                "area": "App Store Optimization",
+                "youtube": "https://youtu.be/2uBIf4MWtHQ",
+                "text": "aso"
+            },
+            {
+                "area":"Content Writing",
+                "youtube": "https://youtu.be/mIhVzSiMxIE",
+                "text":"copywriting"
+            },
+            {
+                "area": "Business Analyst",
+                "youtube":"https://youtu.be/j-5jnrNKoqc",
+                "text":"business"
+            }
+        ]
+    },
+    "management" : {
+       "details": "They are responsible for articulating the 'what' and working with the engineering team to build a successful product. In order to deliver the right product to the market, product managers need to be user experts. They constantly analyse users needs and identify potential future needs.",
+       "title": "MANAGEMENT",
+       "areas": [
+        {
+            "area": "Product Manager",
+            "youtube": "https://youtu.be/yUOC-Y0f5ZQ",
+            "text":"management"
+        },
+        {
+            "area": "Quality Assurance",
+            "youtube": "https://youtu.be/r41Rm2wGvcE",
+           "text": "qa"
+        },
+        {
+            "area": "Tech Recruiter",
+            "youtube":"https://youtu.be/xm1R0wD5GJg",
+            "text": "techrecruiter"
+        },
+        {
+            "area": "System Adminstration",
+            "youtube": "https://youtu.be/H7_1L5eoytA",
+            "text": "system"
+        } 
+    ]
+    }
+}
